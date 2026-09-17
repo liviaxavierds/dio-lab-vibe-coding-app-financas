@@ -77,7 +77,7 @@ Durante o processo, foram realizadas diversas interações para ajustes e implem
 - Inclusão de uma visualização simples e clara dos gastos na tela inicial, sem poluição visual, mantendo o equilíbrio entre simplicidade e poder.
 - Metas financeiras que contemplam tanto economia/planejamento quanto limites por categoria, oferecendo flexibilidade ao usuário.
 
-# 🤔 Reflection – What I Learned
+# 🤔 Reflexão - O que eu aprendi
 Durante o desenvolvimento deste projeto no Bootcamp da DIO, aprendi:
 
 - A importância de detalhar ao máximo o PRD para reduzir ambiguidades no desenvolvimento.
