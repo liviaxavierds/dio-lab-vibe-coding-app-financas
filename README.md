@@ -87,7 +87,7 @@ Durante o processo, foram realizadas diversas interações para ajustes e implem
 
 <img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/ec36205a-63c1-4558-99f2-f011247c94b2" />
 
-# Reflexão - O que eu aprendi
+# O que eu aprendi
 Durante o desenvolvimento deste projeto no Bootcamp da DIO, aprendi:
 
 - A importância de detalhar ao máximo o PRD para reduzir ambiguidades no desenvolvimento.
