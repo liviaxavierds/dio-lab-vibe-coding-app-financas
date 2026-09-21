@@ -1,4 +1,4 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# App de Organização de Finanças Pessoais com Vibe Coding
 
 O aplicativo é uma solução de organização de finanças pessoais via conversa natural, pensado para iniciantes e pessoas que buscam praticidade.
 Principais diferenciais:
@@ -14,7 +14,13 @@ Principais diferenciais:
 - Suporte a três moedas, permitindo maior flexibilidade para diferentes contextos financeiros.
 - Tela inicial com visão clara e simplificada dos gastos diários e mensais, sem se tornar confusa ou sobrecarregada.
 
-# 📝 Prompt Final (PRD)
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/d8dd33d2-f8a8-4b62-8824-3b2049733b74" />
+
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/b7304065-4c12-4630-92ae-83eb1dac0146" />
+
+Acesse a prévia da aplicação pelo link - https://lovable.dev/preview/CzjQgi3Q9AtHfLvwbEAy2KqkmpRw7Y9X
+
+# Prompt Final (PRD)
 Este foi o prompt final usado com a IA (Copilot + Lovable) para guiar o desenvolvimento da aplicação:
 
 ```txt
@@ -66,7 +72,7 @@ Initial Validation:
 
 ```
 
-# 📸 Interações com o Copilot & Lovable
+# Interações com o Copilot & Lovable
 
 Durante o processo, foram realizadas diversas interações para ajustes e implementações. Estes incluem:
 - Correção de erros identificados (botões, sincronização de parcelas, relatórios).
@@ -77,7 +83,11 @@ Durante o processo, foram realizadas diversas interações para ajustes e implem
 - Inclusão de uma visualização simples e clara dos gastos na tela inicial, sem poluição visual, mantendo o equilíbrio entre simplicidade e poder.
 - Metas financeiras que contemplam tanto economia/planejamento quanto limites por categoria, oferecendo flexibilidade ao usuário.
 
-# 🤔 Reflexão - O que eu aprendi
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/9716dac2-40b3-4dca-b281-e097a11b44ed" />
+
+<img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/ec36205a-63c1-4558-99f2-f011247c94b2" />
+
+# Reflexão - O que eu aprendi
 Durante o desenvolvimento deste projeto no Bootcamp da DIO, aprendi:
 
 - A importância de detalhar ao máximo o PRD para reduzir ambiguidades no desenvolvimento.
